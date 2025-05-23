@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Rui Yokochi
 
-<!--
-**yokochi312/yokochi312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a researcher working on automated ECG caption generation using vision-language models.
 
-Here are some ideas to get you started:
+## 🔬 Current Research
+- 🫀 ECG waveform interpretation with AI
+- 📈 Caption generation using BLIP / DeepSeek-VL
+- 📚 Dataset: PTB-XL based ECG images and expert-written reports
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔒 Featured Project (Private Repo)
+This repository is private and dedicated to academic research.  
+Please contact me if you're interested in this project!
+
+## 📫 How to reach me
+- 📧 rui.yokochi@gmail.com
