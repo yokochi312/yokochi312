@@ -4,7 +4,7 @@ I'm a researcher working on automated ECG caption generation using vision-langua
 
 ## 🔬 Current Research
 - 🫀 ECG waveform interpretation with AI
-- 📈 Caption generation using BLIP / DeepSeek-VL
+- 📈 Caption generation using BLIP  / GiT / DeepSeek-VL
 - 📚 Dataset: PTB-XL based ECG images and expert-written reports
 
 ## 🛠 Tech Stack
